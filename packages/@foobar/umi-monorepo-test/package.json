@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "@foobar/umi-monorepo-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "umi dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ant-design-pro": "2.1.0",
+    "antd": "^3.10.3",
+    "react": "^16.7.0-alpha.0",
+    "umi": "^2.2.3"
+  }
+}
